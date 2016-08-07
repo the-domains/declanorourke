@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[declanorourke]]></title>
-        <description><![CDATA[declanorourke]]></description>
+        <title><![CDATA[Declan O' Rourke]]></title>
+        <description><![CDATA[Declan O' Rourke]]></description>
         <link>https://thegrid.ai/declanorourke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 19:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 19:35:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/declanorourke/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Declan O'Rourke]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dbee047-7ffa-42cb-8ddc-fd6cb8379c98.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dbee047-7ffa-42cb-8ddc-fd6cb8379c98.jpg</link>
+            <guid isPermaLink="false">a49d2bdc-c3fb-4760-b1a6-831d6c3eb6ce</guid>
+            <pubDate>Sun, 07 Aug 2016 19:35:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb114d8-2698-43ba-bcd3-f02dcacee2ac.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/declanorourke/this-september-touring-the-usa/index.html</link>
             <guid isPermaLink="false">b7ea08cc-7de9-412e-8681-72d3f1c18f3f</guid>
             <pubDate>Sun, 07 Aug 2016 19:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Declan O'Rourke]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dbee047-7ffa-42cb-8ddc-fd6cb8379c98.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dbee047-7ffa-42cb-8ddc-fd6cb8379c98.jpg</link>
-            <guid isPermaLink="false">a49d2bdc-c3fb-4760-b1a6-831d6c3eb6ce</guid>
-            <pubDate>Tue, 02 Aug 2016 02:40:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
