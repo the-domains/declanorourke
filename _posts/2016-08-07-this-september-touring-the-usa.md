@@ -1,23 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'This September, touring the USA '
-datePublished: '2016-08-07T19:18:56.170Z'
-dateModified: '2016-08-07T19:18:53.918Z'
+datePublished: '2016-08-07T19:39:19.527Z'
+dateModified: '2016-08-07T19:39:08.852Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-08-07-this-september-touring-the-usa.md
 authors: []
 publisher: {}
-starred: false
+starred: true
 url: this-september-touring-the-usa/index.html
-_type: Article
+_type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff50984b-5061-4b4f-8e9f-4a49f372bf61.jpg)
+
 This September, touring the USA 
 
 Nearly ready to kick off again. It feels like I'm not long back, it's lucky I like goin so much! So, lookin' forward to hitting the east coast again with Uncle Eddie at the wheel.
@@ -43,6 +45,4 @@ TBC Philadelphia, PA
 25th -- Winston-Salem, Raleigh
 
 (A few more to be confirmed / announced so watch this space...)
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7810cb5-c70d-491e-802d-13b682ee2009.jpg)
